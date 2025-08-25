@@ -1,0 +1,895 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Milon\\Desktop\\ALL\\36_Merging_HRIS_R62\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71375A33-D68B-46D0-AB7B-9B94532E1DC0}|HRIS_R62\\HRIS_R62.csproj|c:\\users\\milon\\desktop\\all\\36_merging_hris_r62\\hris_r62\\my-app\\src\\components\\nightallowancetimeform.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{71375A33-D68B-46D0-AB7B-9B94532E1DC0}|HRIS_R62\\HRIS_R62.csproj|solutionrelative:hris_r62\\my-app\\src\\components\\nightallowancetimeform.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71375A33-D68B-46D0-AB7B-9B94532E1DC0}|HRIS_R62\\HRIS_R62.csproj|c:\\users\\milon\\desktop\\all\\36_merging_hris_r62\\hris_r62\\my-app\\src\\app.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{71375A33-D68B-46D0-AB7B-9B94532E1DC0}|HRIS_R62\\HRIS_R62.csproj|solutionrelative:hris_r62\\my-app\\src\\app.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71375A33-D68B-46D0-AB7B-9B94532E1DC0}|HRIS_R62\\HRIS_R62.csproj|c:\\users\\milon\\desktop\\all\\36_merging_hris_r62\\hris_r62\\controllers\\nightallowancetimescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71375A33-D68B-46D0-AB7B-9B94532E1DC0}|HRIS_R62\\HRIS_R62.csproj|solutionrelative:hris_r62\\controllers\\nightallowancetimescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71375A33-D68B-46D0-AB7B-9B94532E1DC0}|HRIS_R62\\HRIS_R62.csproj|c:\\users\\milon\\desktop\\all\\36_merging_hris_r62\\hris_r62\\my-app\\src\\services\\nightallowancetimeservice.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{71375A33-D68B-46D0-AB7B-9B94532E1DC0}|HRIS_R62\\HRIS_R62.csproj|solutionrelative:hris_r62\\my-app\\src\\services\\nightallowancetimeservice.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71375A33-D68B-46D0-AB7B-9B94532E1DC0}|HRIS_R62\\HRIS_R62.csproj|c:\\users\\milon\\desktop\\all\\36_merging_hris_r62\\hris_r62\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{71375A33-D68B-46D0-AB7B-9B94532E1DC0}|HRIS_R62\\HRIS_R62.csproj|solutionrelative:hris_r62\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71375A33-D68B-46D0-AB7B-9B94532E1DC0}|HRIS_R62\\HRIS_R62.csproj|c:\\users\\milon\\desktop\\all\\36_merging_hris_r62\\hris_r62\\models\\attendance_required\\nightallowancetime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71375A33-D68B-46D0-AB7B-9B94532E1DC0}|HRIS_R62\\HRIS_R62.csproj|solutionrelative:hris_r62\\models\\attendance_required\\nightallowancetime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71375A33-D68B-46D0-AB7B-9B94532E1DC0}|HRIS_R62\\HRIS_R62.csproj|c:\\users\\milon\\desktop\\all\\36_merging_hris_r62\\hris_r62\\my-app\\src\\components\\nightallowanceform.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{71375A33-D68B-46D0-AB7B-9B94532E1DC0}|HRIS_R62\\HRIS_R62.csproj|solutionrelative:hris_r62\\my-app\\src\\components\\nightallowanceform.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71375A33-D68B-46D0-AB7B-9B94532E1DC0}|HRIS_R62\\HRIS_R62.csproj|c:\\users\\milon\\desktop\\all\\36_merging_hris_r62\\hris_r62\\my-app\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{71375A33-D68B-46D0-AB7B-9B94532E1DC0}|HRIS_R62\\HRIS_R62.csproj|solutionrelative:hris_r62\\my-app\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71375A33-D68B-46D0-AB7B-9B94532E1DC0}|HRIS_R62\\HRIS_R62.csproj|c:\\users\\milon\\desktop\\all\\36_merging_hris_r62\\hris_r62\\my-app\\src\\index.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{71375A33-D68B-46D0-AB7B-9B94532E1DC0}|HRIS_R62\\HRIS_R62.csproj|solutionrelative:hris_r62\\my-app\\src\\index.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71375A33-D68B-46D0-AB7B-9B94532E1DC0}|HRIS_R62\\HRIS_R62.csproj|c:\\users\\milon\\desktop\\all\\36_merging_hris_r62\\hris_r62\\models\\attendance_required\\manualattendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71375A33-D68B-46D0-AB7B-9B94532E1DC0}|HRIS_R62\\HRIS_R62.csproj|solutionrelative:hris_r62\\models\\attendance_required\\manualattendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71375A33-D68B-46D0-AB7B-9B94532E1DC0}|HRIS_R62\\HRIS_R62.csproj|c:\\users\\milon\\desktop\\all\\36_merging_hris_r62\\hris_r62\\controllers\\nightallowancescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71375A33-D68B-46D0-AB7B-9B94532E1DC0}|HRIS_R62\\HRIS_R62.csproj|solutionrelative:hris_r62\\controllers\\nightallowancescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71375A33-D68B-46D0-AB7B-9B94532E1DC0}|HRIS_R62\\HRIS_R62.csproj|c:\\users\\milon\\desktop\\all\\36_merging_hris_r62\\hris_r62\\my-app\\src\\services\\nightallowanceservice.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{71375A33-D68B-46D0-AB7B-9B94532E1DC0}|HRIS_R62\\HRIS_R62.csproj|solutionrelative:hris_r62\\my-app\\src\\services\\nightallowanceservice.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71375A33-D68B-46D0-AB7B-9B94532E1DC0}|HRIS_R62\\HRIS_R62.csproj|c:\\users\\milon\\desktop\\all\\36_merging_hris_r62\\hris_r62\\models\\attendance_required\\nightallowance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71375A33-D68B-46D0-AB7B-9B94532E1DC0}|HRIS_R62\\HRIS_R62.csproj|solutionrelative:hris_r62\\models\\attendance_required\\nightallowance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71375A33-D68B-46D0-AB7B-9B94532E1DC0}|HRIS_R62\\HRIS_R62.csproj|c:\\users\\milon\\desktop\\all\\36_merging_hris_r62\\hris_r62\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71375A33-D68B-46D0-AB7B-9B94532E1DC0}|HRIS_R62\\HRIS_R62.csproj|solutionrelative:hris_r62\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71375A33-D68B-46D0-AB7B-9B94532E1DC0}|HRIS_R62\\HRIS_R62.csproj|c:\\users\\milon\\desktop\\all\\36_merging_hris_r62\\hris_r62\\my-app\\src\\app.test.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{71375A33-D68B-46D0-AB7B-9B94532E1DC0}|HRIS_R62\\HRIS_R62.csproj|solutionrelative:hris_r62\\my-app\\src\\app.test.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71375A33-D68B-46D0-AB7B-9B94532E1DC0}|HRIS_R62\\HRIS_R62.csproj|c:\\users\\milon\\desktop\\all\\36_merging_hris_r62\\hris_r62\\my-app\\tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{71375A33-D68B-46D0-AB7B-9B94532E1DC0}|HRIS_R62\\HRIS_R62.csproj|solutionrelative:hris_r62\\my-app\\tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71375A33-D68B-46D0-AB7B-9B94532E1DC0}|HRIS_R62\\HRIS_R62.csproj|c:\\users\\milon\\desktop\\all\\36_merging_hris_r62\\hris_r62\\hris_r62.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{71375A33-D68B-46D0-AB7B-9B94532E1DC0}|HRIS_R62\\HRIS_R62.csproj|solutionrelative:hris_r62\\hris_r62.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71375A33-D68B-46D0-AB7B-9B94532E1DC0}|HRIS_R62\\HRIS_R62.csproj|c:\\users\\milon\\desktop\\all\\36_merging_hris_r62\\hris_r62\\models\\attendance_required\\building.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71375A33-D68B-46D0-AB7B-9B94532E1DC0}|HRIS_R62\\HRIS_R62.csproj|solutionrelative:hris_r62\\models\\attendance_required\\building.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71375A33-D68B-46D0-AB7B-9B94532E1DC0}|HRIS_R62\\HRIS_R62.csproj|c:\\users\\milon\\desktop\\all\\36_merging_hris_r62\\hris_r62\\models\\attendance_required\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71375A33-D68B-46D0-AB7B-9B94532E1DC0}|HRIS_R62\\HRIS_R62.csproj|solutionrelative:hris_r62\\models\\attendance_required\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71375A33-D68B-46D0-AB7B-9B94532E1DC0}|HRIS_R62\\HRIS_R62.csproj|c:\\users\\milon\\desktop\\all\\36_merging_hris_r62\\hris_r62\\models\\attendance_required\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71375A33-D68B-46D0-AB7B-9B94532E1DC0}|HRIS_R62\\HRIS_R62.csproj|solutionrelative:hris_r62\\models\\attendance_required\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71375A33-D68B-46D0-AB7B-9B94532E1DC0}|HRIS_R62\\HRIS_R62.csproj|c:\\users\\milon\\desktop\\all\\36_merging_hris_r62\\hris_r62\\models\\attendance_required\\lineinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71375A33-D68B-46D0-AB7B-9B94532E1DC0}|HRIS_R62\\HRIS_R62.csproj|solutionrelative:hris_r62\\models\\attendance_required\\lineinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71375A33-D68B-46D0-AB7B-9B94532E1DC0}|HRIS_R62\\HRIS_R62.csproj|c:\\users\\milon\\desktop\\all\\36_merging_hris_r62\\hris_r62\\models\\attendance_required\\division.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71375A33-D68B-46D0-AB7B-9B94532E1DC0}|HRIS_R62\\HRIS_R62.csproj|solutionrelative:hris_r62\\models\\attendance_required\\division.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71375A33-D68B-46D0-AB7B-9B94532E1DC0}|HRIS_R62\\HRIS_R62.csproj|c:\\users\\milon\\desktop\\all\\36_merging_hris_r62\\hris_r62\\models\\attendance_required\\employeeinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71375A33-D68B-46D0-AB7B-9B94532E1DC0}|HRIS_R62\\HRIS_R62.csproj|solutionrelative:hris_r62\\models\\attendance_required\\employeeinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71375A33-D68B-46D0-AB7B-9B94532E1DC0}|HRIS_R62\\HRIS_R62.csproj|c:\\users\\milon\\desktop\\all\\36_merging_hris_r62\\hris_r62\\migrations\\20250806183249_seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71375A33-D68B-46D0-AB7B-9B94532E1DC0}|HRIS_R62\\HRIS_R62.csproj|solutionrelative:hris_r62\\migrations\\20250806183249_seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71375A33-D68B-46D0-AB7B-9B94532E1DC0}|HRIS_R62\\HRIS_R62.csproj|c:\\users\\milon\\desktop\\all\\36_merging_hris_r62\\hris_r62\\migrations\\20250806183023_scripts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71375A33-D68B-46D0-AB7B-9B94532E1DC0}|HRIS_R62\\HRIS_R62.csproj|solutionrelative:hris_r62\\migrations\\20250806183023_scripts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71375A33-D68B-46D0-AB7B-9B94532E1DC0}|HRIS_R62\\HRIS_R62.csproj|c:\\users\\milon\\desktop\\all\\36_merging_hris_r62\\hris_r62\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71375A33-D68B-46D0-AB7B-9B94532E1DC0}|HRIS_R62\\HRIS_R62.csproj|solutionrelative:hris_r62\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71375A33-D68B-46D0-AB7B-9B94532E1DC0}|HRIS_R62\\HRIS_R62.csproj|c:\\users\\milon\\desktop\\all\\36_merging_hris_r62\\hris_r62\\models\\attendance_required\\religion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71375A33-D68B-46D0-AB7B-9B94532E1DC0}|HRIS_R62\\HRIS_R62.csproj|solutionrelative:hris_r62\\models\\attendance_required\\religion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71375A33-D68B-46D0-AB7B-9B94532E1DC0}|HRIS_R62\\HRIS_R62.csproj|c:\\users\\milon\\desktop\\all\\36_merging_hris_r62\\hris_r62\\models\\attendance_required\\weekday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71375A33-D68B-46D0-AB7B-9B94532E1DC0}|HRIS_R62\\HRIS_R62.csproj|solutionrelative:hris_r62\\models\\attendance_required\\weekday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\ASP .NET course IsDB\\Final Project\\Sp\\Merging with sir02\\Merging with sir\\36_Merging_HRIS_R62\\HRIS_R62\\Migrations\\20250806182338_ScriptS.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71375A33-D68B-46D0-AB7B-9B94532E1DC0}|HRIS_R62\\HRIS_R62.csproj|c:\\users\\milon\\desktop\\all\\36_merging_hris_r62\\hris_r62\\models\\attendance_required\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71375A33-D68B-46D0-AB7B-9B94532E1DC0}|HRIS_R62\\HRIS_R62.csproj|solutionrelative:hris_r62\\models\\attendance_required\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71375A33-D68B-46D0-AB7B-9B94532E1DC0}|HRIS_R62\\HRIS_R62.csproj|c:\\users\\milon\\desktop\\all\\36_merging_hris_r62\\hris_r62\\models\\attendance_required\\proximityrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71375A33-D68B-46D0-AB7B-9B94532E1DC0}|HRIS_R62\\HRIS_R62.csproj|solutionrelative:hris_r62\\models\\attendance_required\\proximityrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71375A33-D68B-46D0-AB7B-9B94532E1DC0}|HRIS_R62\\HRIS_R62.csproj|c:\\users\\milon\\desktop\\all\\36_merging_hris_r62\\hris_r62\\models\\attendance_required\\lateapproval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71375A33-D68B-46D0-AB7B-9B94532E1DC0}|HRIS_R62\\HRIS_R62.csproj|solutionrelative:hris_r62\\models\\attendance_required\\lateapproval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71375A33-D68B-46D0-AB7B-9B94532E1DC0}|HRIS_R62\\HRIS_R62.csproj|c:\\users\\milon\\desktop\\all\\36_merging_hris_r62\\hris_r62\\models\\attendance_required\\attendancerecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71375A33-D68B-46D0-AB7B-9B94532E1DC0}|HRIS_R62\\HRIS_R62.csproj|solutionrelative:hris_r62\\models\\attendance_required\\attendancerecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71375A33-D68B-46D0-AB7B-9B94532E1DC0}|HRIS_R62\\HRIS_R62.csproj|c:\\users\\milon\\desktop\\all\\36_merging_hris_r62\\hris_r62\\models\\attendance_required\\shifttime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71375A33-D68B-46D0-AB7B-9B94532E1DC0}|HRIS_R62\\HRIS_R62.csproj|solutionrelative:hris_r62\\models\\attendance_required\\shifttime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71375A33-D68B-46D0-AB7B-9B94532E1DC0}|HRIS_R62\\HRIS_R62.csproj|c:\\users\\milon\\desktop\\all\\36_merging_hris_r62\\hris_r62\\controllers\\employeeinformationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71375A33-D68B-46D0-AB7B-9B94532E1DC0}|HRIS_R62\\HRIS_R62.csproj|solutionrelative:hris_r62\\controllers\\employeeinformationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\ASP .NET course IsDB\\Final Project\\Sp\\Merging with sir02\\Merging with sir\\36_Merging_HRIS_R62\\HRIS_R62\\Migrations\\20250806173642_ScriptS.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71375A33-D68B-46D0-AB7B-9B94532E1DC0}|HRIS_R62\\HRIS_R62.csproj|c:\\users\\milon\\desktop\\all\\36_merging_hris_r62\\hris_r62\\models\\attendance_required\\sections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71375A33-D68B-46D0-AB7B-9B94532E1DC0}|HRIS_R62\\HRIS_R62.csproj|solutionrelative:hris_r62\\models\\attendance_required\\sections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71375A33-D68B-46D0-AB7B-9B94532E1DC0}|HRIS_R62\\HRIS_R62.csproj|c:\\users\\milon\\desktop\\all\\36_merging_hris_r62\\hris_r62\\models\\attendance_required\\attendancestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71375A33-D68B-46D0-AB7B-9B94532E1DC0}|HRIS_R62\\HRIS_R62.csproj|solutionrelative:hris_r62\\models\\attendance_required\\attendancestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71375A33-D68B-46D0-AB7B-9B94532E1DC0}|HRIS_R62\\HRIS_R62.csproj|c:\\users\\milon\\desktop\\all\\36_merging_hris_r62\\hris_r62\\models\\second_phase\\maternitybill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71375A33-D68B-46D0-AB7B-9B94532E1DC0}|HRIS_R62\\HRIS_R62.csproj|solutionrelative:hris_r62\\models\\second_phase\\maternitybill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71375A33-D68B-46D0-AB7B-9B94532E1DC0}|HRIS_R62\\HRIS_R62.csproj|c:\\users\\milon\\desktop\\all\\36_merging_hris_r62\\hris_r62\\models\\second_phase\\employeecomplaint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71375A33-D68B-46D0-AB7B-9B94532E1DC0}|HRIS_R62\\HRIS_R62.csproj|solutionrelative:hris_r62\\models\\second_phase\\employeecomplaint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71375A33-D68B-46D0-AB7B-9B94532E1DC0}|HRIS_R62\\HRIS_R62.csproj|c:\\users\\milon\\desktop\\all\\36_merging_hris_r62\\hris_r62\\models\\attendance_required\\overtime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71375A33-D68B-46D0-AB7B-9B94532E1DC0}|HRIS_R62\\HRIS_R62.csproj|solutionrelative:hris_r62\\models\\attendance_required\\overtime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71375A33-D68B-46D0-AB7B-9B94532E1DC0}|HRIS_R62\\HRIS_R62.csproj|c:\\users\\milon\\desktop\\all\\36_merging_hris_r62\\hris_r62\\models\\second_phase\\maternityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71375A33-D68B-46D0-AB7B-9B94532E1DC0}|HRIS_R62\\HRIS_R62.csproj|solutionrelative:hris_r62\\models\\second_phase\\maternityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71375A33-D68B-46D0-AB7B-9B94532E1DC0}|HRIS_R62\\HRIS_R62.csproj|c:\\users\\milon\\desktop\\all\\36_merging_hris_r62\\hris_r62\\models\\second_phase\\jobleft.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71375A33-D68B-46D0-AB7B-9B94532E1DC0}|HRIS_R62\\HRIS_R62.csproj|solutionrelative:hris_r62\\models\\second_phase\\jobleft.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71375A33-D68B-46D0-AB7B-9B94532E1DC0}|HRIS_R62\\HRIS_R62.csproj|c:\\users\\milon\\desktop\\all\\36_merging_hris_r62\\hris_r62\\models\\second_phase\\foodcharge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71375A33-D68B-46D0-AB7B-9B94532E1DC0}|HRIS_R62\\HRIS_R62.csproj|solutionrelative:hris_r62\\models\\second_phase\\foodcharge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71375A33-D68B-46D0-AB7B-9B94532E1DC0}|HRIS_R62\\HRIS_R62.csproj|c:\\users\\milon\\desktop\\all\\36_merging_hris_r62\\hris_r62\\models\\second_phase\\festivalbonus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71375A33-D68B-46D0-AB7B-9B94532E1DC0}|HRIS_R62\\HRIS_R62.csproj|solutionrelative:hris_r62\\models\\second_phase\\festivalbonus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71375A33-D68B-46D0-AB7B-9B94532E1DC0}|HRIS_R62\\HRIS_R62.csproj|c:\\users\\milon\\desktop\\all\\36_merging_hris_r62\\hris_r62\\models\\second_phase\\employeetax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71375A33-D68B-46D0-AB7B-9B94532E1DC0}|HRIS_R62\\HRIS_R62.csproj|solutionrelative:hris_r62\\models\\second_phase\\employeetax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71375A33-D68B-46D0-AB7B-9B94532E1DC0}|HRIS_R62\\HRIS_R62.csproj|c:\\users\\milon\\desktop\\all\\36_merging_hris_r62\\hris_r62\\models\\second_phase\\employeebenefits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71375A33-D68B-46D0-AB7B-9B94532E1DC0}|HRIS_R62\\HRIS_R62.csproj|solutionrelative:hris_r62\\models\\second_phase\\employeebenefits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71375A33-D68B-46D0-AB7B-9B94532E1DC0}|HRIS_R62\\HRIS_R62.csproj|c:\\users\\milon\\desktop\\all\\36_merging_hris_r62\\hris_r62\\models\\second_phase\\disciplinaryaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71375A33-D68B-46D0-AB7B-9B94532E1DC0}|HRIS_R62\\HRIS_R62.csproj|solutionrelative:hris_r62\\models\\second_phase\\disciplinaryaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71375A33-D68B-46D0-AB7B-9B94532E1DC0}|HRIS_R62\\HRIS_R62.csproj|c:\\users\\milon\\desktop\\all\\36_merging_hris_r62\\hris_r62\\models\\second_phase\\childreninformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71375A33-D68B-46D0-AB7B-9B94532E1DC0}|HRIS_R62\\HRIS_R62.csproj|solutionrelative:hris_r62\\models\\second_phase\\childreninformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71375A33-D68B-46D0-AB7B-9B94532E1DC0}|HRIS_R62\\HRIS_R62.csproj|c:\\users\\milon\\desktop\\all\\36_merging_hris_r62\\hris_r62\\models\\second_phase\\careerhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71375A33-D68B-46D0-AB7B-9B94532E1DC0}|HRIS_R62\\HRIS_R62.csproj|solutionrelative:hris_r62\\models\\second_phase\\careerhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71375A33-D68B-46D0-AB7B-9B94532E1DC0}|HRIS_R62\\HRIS_R62.csproj|c:\\users\\milon\\desktop\\all\\36_merging_hris_r62\\hris_r62\\models\\second_phase\\bonusrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71375A33-D68B-46D0-AB7B-9B94532E1DC0}|HRIS_R62\\HRIS_R62.csproj|solutionrelative:hris_r62\\models\\second_phase\\bonusrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71375A33-D68B-46D0-AB7B-9B94532E1DC0}|HRIS_R62\\HRIS_R62.csproj|c:\\users\\milon\\desktop\\all\\36_merging_hris_r62\\hris_r62\\models\\second_phase\\earlyleaveinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71375A33-D68B-46D0-AB7B-9B94532E1DC0}|HRIS_R62\\HRIS_R62.csproj|solutionrelative:hris_r62\\models\\second_phase\\earlyleaveinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71375A33-D68B-46D0-AB7B-9B94532E1DC0}|HRIS_R62\\HRIS_R62.csproj|c:\\users\\milon\\desktop\\all\\36_merging_hris_r62\\hris_r62\\models\\attendance_required\\datewiseofficetime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71375A33-D68B-46D0-AB7B-9B94532E1DC0}|HRIS_R62\\HRIS_R62.csproj|solutionrelative:hris_r62\\models\\attendance_required\\datewiseofficetime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71375A33-D68B-46D0-AB7B-9B94532E1DC0}|HRIS_R62\\HRIS_R62.csproj|c:\\users\\milon\\desktop\\all\\36_merging_hris_r62\\hris_r62\\models\\attendance_required\\tiffinallowancetime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71375A33-D68B-46D0-AB7B-9B94532E1DC0}|HRIS_R62\\HRIS_R62.csproj|solutionrelative:hris_r62\\models\\attendance_required\\tiffinallowancetime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71375A33-D68B-46D0-AB7B-9B94532E1DC0}|HRIS_R62\\HRIS_R62.csproj|c:\\users\\milon\\desktop\\all\\36_merging_hris_r62\\hris_r62\\models\\attendance_required\\unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71375A33-D68B-46D0-AB7B-9B94532E1DC0}|HRIS_R62\\HRIS_R62.csproj|solutionrelative:hris_r62\\models\\attendance_required\\unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NightAllowanceTimesController.cs",
+              "DocumentMoniker": "C:\\Users\\Milon\\Desktop\\ALL\\36_Merging_HRIS_R62\\HRIS_R62\\Controllers\\NightAllowanceTimesController.cs",
+              "RelativeDocumentMoniker": "HRIS_R62\\Controllers\\NightAllowanceTimesController.cs",
+              "ToolTip": "C:\\Users\\Milon\\Desktop\\ALL\\36_Merging_HRIS_R62\\HRIS_R62\\Controllers\\NightAllowanceTimesController.cs",
+              "RelativeToolTip": "HRIS_R62\\Controllers\\NightAllowanceTimesController.cs",
+              "ViewState": "AgIAANoAAAAAAAAAAAAqwPcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T05:50:45.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Milon\\Desktop\\ALL\\36_Merging_HRIS_R62\\HRIS_R62\\appsettings.json",
+              "RelativeDocumentMoniker": "HRIS_R62\\appsettings.json",
+              "ToolTip": "C:\\Users\\Milon\\Desktop\\ALL\\36_Merging_HRIS_R62\\HRIS_R62\\appsettings.json",
+              "RelativeToolTip": "HRIS_R62\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-06T10:13:56.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "nightAllowanceTimeService.ts",
+              "DocumentMoniker": "C:\\Users\\Milon\\Desktop\\ALL\\36_Merging_HRIS_R62\\HRIS_R62\\my-app\\src\\services\\nightAllowanceTimeService.ts",
+              "RelativeDocumentMoniker": "HRIS_R62\\my-app\\src\\services\\nightAllowanceTimeService.ts",
+              "ToolTip": "C:\\Users\\Milon\\Desktop\\ALL\\36_Merging_HRIS_R62\\HRIS_R62\\my-app\\src\\services\\nightAllowanceTimeService.ts",
+              "RelativeToolTip": "HRIS_R62\\my-app\\src\\services\\nightAllowanceTimeService.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-08-12T05:58:03.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NightAllowanceTimeForm.tsx",
+              "DocumentMoniker": "C:\\Users\\Milon\\Desktop\\ALL\\36_Merging_HRIS_R62\\HRIS_R62\\my-app\\src\\components\\NightAllowanceTimeForm.tsx",
+              "RelativeDocumentMoniker": "HRIS_R62\\my-app\\src\\components\\NightAllowanceTimeForm.tsx",
+              "ToolTip": "C:\\Users\\Milon\\Desktop\\ALL\\36_Merging_HRIS_R62\\HRIS_R62\\my-app\\src\\components\\NightAllowanceTimeForm.tsx",
+              "RelativeToolTip": "HRIS_R62\\my-app\\src\\components\\NightAllowanceTimeForm.tsx",
+              "ViewState": "AgIAADUBAAAAAAAAAAAAAEoBAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-08-12T05:57:36.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.tsx",
+              "DocumentMoniker": "C:\\Users\\Milon\\Desktop\\ALL\\36_Merging_HRIS_R62\\HRIS_R62\\my-app\\src\\App.tsx",
+              "RelativeDocumentMoniker": "HRIS_R62\\my-app\\src\\App.tsx",
+              "ToolTip": "C:\\Users\\Milon\\Desktop\\ALL\\36_Merging_HRIS_R62\\HRIS_R62\\my-app\\src\\App.tsx",
+              "RelativeToolTip": "HRIS_R62\\my-app\\src\\App.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-08-12T06:26:08.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NightAllowanceTime.cs",
+              "DocumentMoniker": "C:\\Users\\Milon\\Desktop\\ALL\\36_Merging_HRIS_R62\\HRIS_R62\\Models\\Attendance_Required\\NightAllowanceTime.cs",
+              "RelativeDocumentMoniker": "HRIS_R62\\Models\\Attendance_Required\\NightAllowanceTime.cs",
+              "ToolTip": "C:\\Users\\Milon\\Desktop\\ALL\\36_Merging_HRIS_R62\\HRIS_R62\\Models\\Attendance_Required\\NightAllowanceTime.cs",
+              "RelativeToolTip": "HRIS_R62\\Models\\Attendance_Required\\NightAllowanceTime.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T10:57:20.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NightAllowanceForm.tsx",
+              "DocumentMoniker": "C:\\Users\\Milon\\Desktop\\ALL\\36_Merging_HRIS_R62\\HRIS_R62\\my-app\\src\\components\\NightAllowanceForm.tsx",
+              "RelativeDocumentMoniker": "HRIS_R62\\my-app\\src\\components\\NightAllowanceForm.tsx",
+              "ToolTip": "C:\\Users\\Milon\\Desktop\\ALL\\36_Merging_HRIS_R62\\HRIS_R62\\my-app\\src\\components\\NightAllowanceForm.tsx",
+              "RelativeToolTip": "HRIS_R62\\my-app\\src\\components\\NightAllowanceForm.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-08-12T05:57:45.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\Milon\\Desktop\\ALL\\36_Merging_HRIS_R62\\HRIS_R62\\my-app\\package.json",
+              "RelativeDocumentMoniker": "HRIS_R62\\my-app\\package.json",
+              "ToolTip": "C:\\Users\\Milon\\Desktop\\ALL\\36_Merging_HRIS_R62\\HRIS_R62\\my-app\\package.json",
+              "RelativeToolTip": "HRIS_R62\\my-app\\package.json",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-12T06:06:36.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "index.tsx",
+              "DocumentMoniker": "C:\\Users\\Milon\\Desktop\\ALL\\36_Merging_HRIS_R62\\HRIS_R62\\my-app\\src\\index.tsx",
+              "RelativeDocumentMoniker": "HRIS_R62\\my-app\\src\\index.tsx",
+              "ToolTip": "C:\\Users\\Milon\\Desktop\\ALL\\36_Merging_HRIS_R62\\HRIS_R62\\my-app\\src\\index.tsx",
+              "RelativeToolTip": "HRIS_R62\\my-app\\src\\index.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-08-12T05:48:33.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ManualAttendance.cs",
+              "DocumentMoniker": "C:\\Users\\Milon\\Desktop\\ALL\\36_Merging_HRIS_R62\\HRIS_R62\\Models\\Attendance_Required\\ManualAttendance.cs",
+              "RelativeDocumentMoniker": "HRIS_R62\\Models\\Attendance_Required\\ManualAttendance.cs",
+              "ToolTip": "C:\\Users\\Milon\\Desktop\\ALL\\36_Merging_HRIS_R62\\HRIS_R62\\Models\\Attendance_Required\\ManualAttendance.cs",
+              "RelativeToolTip": "HRIS_R62\\Models\\Attendance_Required\\ManualAttendance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T06:22:08.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NightAllowancesController.cs",
+              "DocumentMoniker": "C:\\Users\\Milon\\Desktop\\ALL\\36_Merging_HRIS_R62\\HRIS_R62\\Controllers\\NightAllowancesController.cs",
+              "RelativeDocumentMoniker": "HRIS_R62\\Controllers\\NightAllowancesController.cs",
+              "ToolTip": "C:\\Users\\Milon\\Desktop\\ALL\\36_Merging_HRIS_R62\\HRIS_R62\\Controllers\\NightAllowancesController.cs",
+              "RelativeToolTip": "HRIS_R62\\Controllers\\NightAllowancesController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAkwHQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T05:50:09.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "nightAllowanceService.ts",
+              "DocumentMoniker": "C:\\Users\\Milon\\Desktop\\ALL\\36_Merging_HRIS_R62\\HRIS_R62\\my-app\\src\\services\\nightAllowanceService.ts",
+              "RelativeDocumentMoniker": "HRIS_R62\\my-app\\src\\services\\nightAllowanceService.ts",
+              "ToolTip": "C:\\Users\\Milon\\Desktop\\ALL\\36_Merging_HRIS_R62\\HRIS_R62\\my-app\\src\\services\\nightAllowanceService.ts",
+              "RelativeToolTip": "HRIS_R62\\my-app\\src\\services\\nightAllowanceService.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-08-12T05:58:02.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NightAllowance.cs",
+              "DocumentMoniker": "C:\\Users\\Milon\\Desktop\\ALL\\36_Merging_HRIS_R62\\HRIS_R62\\Models\\Attendance_Required\\NightAllowance.cs",
+              "RelativeDocumentMoniker": "HRIS_R62\\Models\\Attendance_Required\\NightAllowance.cs",
+              "ToolTip": "C:\\Users\\Milon\\Desktop\\ALL\\36_Merging_HRIS_R62\\HRIS_R62\\Models\\Attendance_Required\\NightAllowance.cs",
+              "RelativeToolTip": "HRIS_R62\\Models\\Attendance_Required\\NightAllowance.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T05:55:38.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Milon\\Desktop\\ALL\\36_Merging_HRIS_R62\\HRIS_R62\\Program.cs",
+              "RelativeDocumentMoniker": "HRIS_R62\\Program.cs",
+              "ToolTip": "C:\\Users\\Milon\\Desktop\\ALL\\36_Merging_HRIS_R62\\HRIS_R62\\Program.cs",
+              "RelativeToolTip": "HRIS_R62\\Program.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAqwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T06:09:26.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "App.test.tsx",
+              "DocumentMoniker": "C:\\Users\\Milon\\Desktop\\ALL\\36_Merging_HRIS_R62\\HRIS_R62\\my-app\\src\\App.test.tsx",
+              "RelativeDocumentMoniker": "HRIS_R62\\my-app\\src\\App.test.tsx",
+              "ToolTip": "C:\\Users\\Milon\\Desktop\\ALL\\36_Merging_HRIS_R62\\HRIS_R62\\my-app\\src\\App.test.tsx",
+              "RelativeToolTip": "HRIS_R62\\my-app\\src\\App.test.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-08-12T06:00:40.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "tsconfig.json",
+              "DocumentMoniker": "C:\\Users\\Milon\\Desktop\\ALL\\36_Merging_HRIS_R62\\HRIS_R62\\my-app\\tsconfig.json",
+              "RelativeDocumentMoniker": "HRIS_R62\\my-app\\tsconfig.json",
+              "ToolTip": "C:\\Users\\Milon\\Desktop\\ALL\\36_Merging_HRIS_R62\\HRIS_R62\\my-app\\tsconfig.json",
+              "RelativeToolTip": "HRIS_R62\\my-app\\tsconfig.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-12T06:06:33.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HRIS_R62.csproj",
+              "DocumentMoniker": "C:\\Users\\Milon\\Desktop\\ALL\\36_Merging_HRIS_R62\\HRIS_R62\\HRIS_R62.csproj",
+              "RelativeDocumentMoniker": "HRIS_R62\\HRIS_R62.csproj",
+              "ToolTip": "C:\\Users\\Milon\\Desktop\\ALL\\36_Merging_HRIS_R62\\HRIS_R62\\HRIS_R62.csproj",
+              "RelativeToolTip": "HRIS_R62\\HRIS_R62.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-12T05:45:25.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ProximityRecord.cs",
+              "DocumentMoniker": "C:\\Users\\Milon\\Desktop\\ALL\\36_Merging_HRIS_R62\\HRIS_R62\\Models\\Attendance_Required\\ProximityRecord.cs",
+              "RelativeDocumentMoniker": "HRIS_R62\\Models\\Attendance_Required\\ProximityRecord.cs",
+              "ToolTip": "C:\\Users\\Milon\\Desktop\\ALL\\36_Merging_HRIS_R62\\HRIS_R62\\Models\\Attendance_Required\\ProximityRecord.cs",
+              "RelativeToolTip": "HRIS_R62\\Models\\Attendance_Required\\ProximityRecord.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAIAxwCQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T11:01:42.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Milon\\Desktop\\ALL\\36_Merging_HRIS_R62\\HRIS_R62\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "HRIS_R62\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Milon\\Desktop\\ALL\\36_Merging_HRIS_R62\\HRIS_R62\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "HRIS_R62\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAAAFsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T11:33:53.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Gender.cs",
+              "DocumentMoniker": "C:\\Users\\Milon\\Desktop\\ALL\\36_Merging_HRIS_R62\\HRIS_R62\\Models\\Attendance_Required\\Gender.cs",
+              "RelativeDocumentMoniker": "HRIS_R62\\Models\\Attendance_Required\\Gender.cs",
+              "ToolTip": "C:\\Users\\Milon\\Desktop\\ALL\\36_Merging_HRIS_R62\\HRIS_R62\\Models\\Attendance_Required\\Gender.cs",
+              "RelativeToolTip": "HRIS_R62\\Models\\Attendance_Required\\Gender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T11:16:10.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LineInformation.cs",
+              "DocumentMoniker": "C:\\Users\\Milon\\Desktop\\ALL\\36_Merging_HRIS_R62\\HRIS_R62\\Models\\Attendance_Required\\LineInformation.cs",
+              "RelativeDocumentMoniker": "HRIS_R62\\Models\\Attendance_Required\\LineInformation.cs",
+              "ToolTip": "C:\\Users\\Milon\\Desktop\\ALL\\36_Merging_HRIS_R62\\HRIS_R62\\Models\\Attendance_Required\\LineInformation.cs",
+              "RelativeToolTip": "HRIS_R62\\Models\\Attendance_Required\\LineInformation.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACQAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T11:21:36.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Building.cs",
+              "DocumentMoniker": "C:\\Users\\Milon\\Desktop\\ALL\\36_Merging_HRIS_R62\\HRIS_R62\\Models\\Attendance_Required\\Building.cs",
+              "RelativeDocumentMoniker": "HRIS_R62\\Models\\Attendance_Required\\Building.cs",
+              "ToolTip": "C:\\Users\\Milon\\Desktop\\ALL\\36_Merging_HRIS_R62\\HRIS_R62\\Models\\Attendance_Required\\Building.cs",
+              "RelativeToolTip": "HRIS_R62\\Models\\Attendance_Required\\Building.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA2wBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T11:18:21.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ShiftTime.cs",
+              "DocumentMoniker": "C:\\Users\\Milon\\Desktop\\ALL\\36_Merging_HRIS_R62\\HRIS_R62\\Models\\Attendance_Required\\ShiftTime.cs",
+              "RelativeDocumentMoniker": "HRIS_R62\\Models\\Attendance_Required\\ShiftTime.cs",
+              "ToolTip": "C:\\Users\\Milon\\Desktop\\ALL\\36_Merging_HRIS_R62\\HRIS_R62\\Models\\Attendance_Required\\ShiftTime.cs",
+              "RelativeToolTip": "HRIS_R62\\Models\\Attendance_Required\\ShiftTime.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T10:49:49.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EmployeeInformation.cs",
+              "DocumentMoniker": "C:\\Users\\Milon\\Desktop\\ALL\\36_Merging_HRIS_R62\\HRIS_R62\\Models\\Attendance_Required\\EmployeeInformation.cs",
+              "RelativeDocumentMoniker": "HRIS_R62\\Models\\Attendance_Required\\EmployeeInformation.cs",
+              "ToolTip": "C:\\Users\\Milon\\Desktop\\ALL\\36_Merging_HRIS_R62\\HRIS_R62\\Models\\Attendance_Required\\EmployeeInformation.cs",
+              "RelativeToolTip": "HRIS_R62\\Models\\Attendance_Required\\EmployeeInformation.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAcwA8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T10:16:30.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\Milon\\Desktop\\ALL\\36_Merging_HRIS_R62\\HRIS_R62\\Models\\Attendance_Required\\Department.cs",
+              "RelativeDocumentMoniker": "HRIS_R62\\Models\\Attendance_Required\\Department.cs",
+              "ToolTip": "C:\\Users\\Milon\\Desktop\\ALL\\36_Merging_HRIS_R62\\HRIS_R62\\Models\\Attendance_Required\\Department.cs",
+              "RelativeToolTip": "HRIS_R62\\Models\\Attendance_Required\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T18:54:58.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Division.cs",
+              "DocumentMoniker": "C:\\Users\\Milon\\Desktop\\ALL\\36_Merging_HRIS_R62\\HRIS_R62\\Models\\Attendance_Required\\Division.cs",
+              "RelativeDocumentMoniker": "HRIS_R62\\Models\\Attendance_Required\\Division.cs",
+              "ToolTip": "C:\\Users\\Milon\\Desktop\\ALL\\36_Merging_HRIS_R62\\HRIS_R62\\Models\\Attendance_Required\\Division.cs",
+              "RelativeToolTip": "HRIS_R62\\Models\\Attendance_Required\\Division.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T10:21:41.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Company.cs",
+              "DocumentMoniker": "C:\\Users\\Milon\\Desktop\\ALL\\36_Merging_HRIS_R62\\HRIS_R62\\Models\\Attendance_Required\\Company.cs",
+              "RelativeDocumentMoniker": "HRIS_R62\\Models\\Attendance_Required\\Company.cs",
+              "ToolTip": "C:\\Users\\Milon\\Desktop\\ALL\\36_Merging_HRIS_R62\\HRIS_R62\\Models\\Attendance_Required\\Company.cs",
+              "RelativeToolTip": "HRIS_R62\\Models\\Attendance_Required\\Company.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T17:28:49.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20250806182338_ScriptS.cs",
+              "DocumentMoniker": "E:\\ASP .NET course IsDB\\Final Project\\Sp\\Merging with sir02\\Merging with sir\\36_Merging_HRIS_R62\\HRIS_R62\\Migrations\\20250806182338_ScriptS.cs",
+              "ToolTip": "E:\\ASP .NET course IsDB\\Final Project\\Sp\\Merging with sir02\\Merging with sir\\36_Merging_HRIS_R62\\HRIS_R62\\Migrations\\20250806182338_ScriptS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T18:23:38.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20250806183023_ScriptS.cs",
+              "DocumentMoniker": "C:\\Users\\Milon\\Desktop\\ALL\\36_Merging_HRIS_R62\\HRIS_R62\\Migrations\\20250806183023_ScriptS.cs",
+              "RelativeDocumentMoniker": "HRIS_R62\\Migrations\\20250806183023_ScriptS.cs",
+              "ToolTip": "C:\\Users\\Milon\\Desktop\\ALL\\36_Merging_HRIS_R62\\HRIS_R62\\Migrations\\20250806183023_ScriptS.cs",
+              "RelativeToolTip": "HRIS_R62\\Migrations\\20250806183023_ScriptS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T18:30:23.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20250806183249_SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\Milon\\Desktop\\ALL\\36_Merging_HRIS_R62\\HRIS_R62\\Migrations\\20250806183249_SeedData.cs",
+              "RelativeDocumentMoniker": "HRIS_R62\\Migrations\\20250806183249_SeedData.cs",
+              "ToolTip": "C:\\Users\\Milon\\Desktop\\ALL\\36_Merging_HRIS_R62\\HRIS_R62\\Migrations\\20250806183249_SeedData.cs",
+              "RelativeToolTip": "HRIS_R62\\Migrations\\20250806183249_SeedData.cs",
+              "ViewState": "AgIAAM8CAAAAAAAAAAAkwOICAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T18:32:49.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "WeekDay.cs",
+              "DocumentMoniker": "C:\\Users\\Milon\\Desktop\\ALL\\36_Merging_HRIS_R62\\HRIS_R62\\Models\\Attendance_Required\\WeekDay.cs",
+              "RelativeDocumentMoniker": "HRIS_R62\\Models\\Attendance_Required\\WeekDay.cs",
+              "ToolTip": "C:\\Users\\Milon\\Desktop\\ALL\\36_Merging_HRIS_R62\\HRIS_R62\\Models\\Attendance_Required\\WeekDay.cs",
+              "RelativeToolTip": "HRIS_R62\\Models\\Attendance_Required\\WeekDay.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T10:58:30.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Religion.cs",
+              "DocumentMoniker": "C:\\Users\\Milon\\Desktop\\ALL\\36_Merging_HRIS_R62\\HRIS_R62\\Models\\Attendance_Required\\Religion.cs",
+              "RelativeDocumentMoniker": "HRIS_R62\\Models\\Attendance_Required\\Religion.cs",
+              "ToolTip": "C:\\Users\\Milon\\Desktop\\ALL\\36_Merging_HRIS_R62\\HRIS_R62\\Models\\Attendance_Required\\Religion.cs",
+              "RelativeToolTip": "HRIS_R62\\Models\\Attendance_Required\\Religion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T11:16:03.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "EmployeeInformationsController.cs",
+              "DocumentMoniker": "C:\\Users\\Milon\\Desktop\\ALL\\36_Merging_HRIS_R62\\HRIS_R62\\Controllers\\EmployeeInformationsController.cs",
+              "RelativeDocumentMoniker": "HRIS_R62\\Controllers\\EmployeeInformationsController.cs",
+              "ToolTip": "C:\\Users\\Milon\\Desktop\\ALL\\36_Merging_HRIS_R62\\HRIS_R62\\Controllers\\EmployeeInformationsController.cs",
+              "RelativeToolTip": "HRIS_R62\\Controllers\\EmployeeInformationsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T17:23:45.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "LateApproval.cs",
+              "DocumentMoniker": "C:\\Users\\Milon\\Desktop\\ALL\\36_Merging_HRIS_R62\\HRIS_R62\\Models\\Attendance_Required\\LateApproval.cs",
+              "RelativeDocumentMoniker": "HRIS_R62\\Models\\Attendance_Required\\LateApproval.cs",
+              "ToolTip": "C:\\Users\\Milon\\Desktop\\ALL\\36_Merging_HRIS_R62\\HRIS_R62\\Models\\Attendance_Required\\LateApproval.cs",
+              "RelativeToolTip": "HRIS_R62\\Models\\Attendance_Required\\LateApproval.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowBYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T18:08:14.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20250806173642_ScriptS.cs",
+              "DocumentMoniker": "E:\\ASP .NET course IsDB\\Final Project\\Sp\\Merging with sir02\\Merging with sir\\36_Merging_HRIS_R62\\HRIS_R62\\Migrations\\20250806173642_ScriptS.cs",
+              "ToolTip": "E:\\ASP .NET course IsDB\\Final Project\\Sp\\Merging with sir02\\Merging with sir\\36_Merging_HRIS_R62\\HRIS_R62\\Migrations\\20250806173642_ScriptS.cs",
+              "ViewState": "AgIAAEMIAAAAAAAAAAAnwE4IAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T17:36:42.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AttendanceRecord.cs",
+              "DocumentMoniker": "C:\\Users\\Milon\\Desktop\\ALL\\36_Merging_HRIS_R62\\HRIS_R62\\Models\\Attendance_Required\\AttendanceRecord.cs",
+              "RelativeDocumentMoniker": "HRIS_R62\\Models\\Attendance_Required\\AttendanceRecord.cs",
+              "ToolTip": "C:\\Users\\Milon\\Desktop\\ALL\\36_Merging_HRIS_R62\\HRIS_R62\\Models\\Attendance_Required\\AttendanceRecord.cs",
+              "RelativeToolTip": "HRIS_R62\\Models\\Attendance_Required\\AttendanceRecord.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAuwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T10:49:26.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "AttendanceStatus.cs",
+              "DocumentMoniker": "C:\\Users\\Milon\\Desktop\\ALL\\36_Merging_HRIS_R62\\HRIS_R62\\Models\\Attendance_Required\\AttendanceStatus.cs",
+              "RelativeDocumentMoniker": "HRIS_R62\\Models\\Attendance_Required\\AttendanceStatus.cs",
+              "ToolTip": "C:\\Users\\Milon\\Desktop\\ALL\\36_Merging_HRIS_R62\\HRIS_R62\\Models\\Attendance_Required\\AttendanceStatus.cs",
+              "RelativeToolTip": "HRIS_R62\\Models\\Attendance_Required\\AttendanceStatus.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T11:34:01.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Sections.cs",
+              "DocumentMoniker": "C:\\Users\\Milon\\Desktop\\ALL\\36_Merging_HRIS_R62\\HRIS_R62\\Models\\Attendance_Required\\Sections.cs",
+              "RelativeDocumentMoniker": "HRIS_R62\\Models\\Attendance_Required\\Sections.cs",
+              "ToolTip": "C:\\Users\\Milon\\Desktop\\ALL\\36_Merging_HRIS_R62\\HRIS_R62\\Models\\Attendance_Required\\Sections.cs",
+              "RelativeToolTip": "HRIS_R62\\Models\\Attendance_Required\\Sections.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T17:35:13.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "MaternityBill.cs",
+              "DocumentMoniker": "C:\\Users\\Milon\\Desktop\\ALL\\36_Merging_HRIS_R62\\HRIS_R62\\Models\\Second_Phase\\MaternityBill.cs",
+              "RelativeDocumentMoniker": "HRIS_R62\\Models\\Second_Phase\\MaternityBill.cs",
+              "ToolTip": "C:\\Users\\Milon\\Desktop\\ALL\\36_Merging_HRIS_R62\\HRIS_R62\\Models\\Second_Phase\\MaternityBill.cs",
+              "RelativeToolTip": "HRIS_R62\\Models\\Second_Phase\\MaternityBill.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAtwCkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T11:05:17.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "EmployeeComplaint.cs",
+              "DocumentMoniker": "C:\\Users\\Milon\\Desktop\\ALL\\36_Merging_HRIS_R62\\HRIS_R62\\Models\\Second_Phase\\EmployeeComplaint.cs",
+              "RelativeDocumentMoniker": "HRIS_R62\\Models\\Second_Phase\\EmployeeComplaint.cs",
+              "ToolTip": "C:\\Users\\Milon\\Desktop\\ALL\\36_Merging_HRIS_R62\\HRIS_R62\\Models\\Second_Phase\\EmployeeComplaint.cs",
+              "RelativeToolTip": "HRIS_R62\\Models\\Second_Phase\\EmployeeComplaint.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABIAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T11:05:04.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "OverTime.cs",
+              "DocumentMoniker": "C:\\Users\\Milon\\Desktop\\ALL\\36_Merging_HRIS_R62\\HRIS_R62\\Models\\Attendance_Required\\OverTime.cs",
+              "RelativeDocumentMoniker": "HRIS_R62\\Models\\Attendance_Required\\OverTime.cs",
+              "ToolTip": "C:\\Users\\Milon\\Desktop\\ALL\\36_Merging_HRIS_R62\\HRIS_R62\\Models\\Attendance_Required\\OverTime.cs",
+              "RelativeToolTip": "HRIS_R62\\Models\\Attendance_Required\\OverTime.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwA8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T11:05:31.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "MaternityConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Milon\\Desktop\\ALL\\36_Merging_HRIS_R62\\HRIS_R62\\Models\\Second_Phase\\MaternityConfiguration.cs",
+              "RelativeDocumentMoniker": "HRIS_R62\\Models\\Second_Phase\\MaternityConfiguration.cs",
+              "ToolTip": "C:\\Users\\Milon\\Desktop\\ALL\\36_Merging_HRIS_R62\\HRIS_R62\\Models\\Second_Phase\\MaternityConfiguration.cs",
+              "RelativeToolTip": "HRIS_R62\\Models\\Second_Phase\\MaternityConfiguration.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABYAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T11:05:25.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "JobLeft.cs",
+              "DocumentMoniker": "C:\\Users\\Milon\\Desktop\\ALL\\36_Merging_HRIS_R62\\HRIS_R62\\Models\\Second_Phase\\JobLeft.cs",
+              "RelativeDocumentMoniker": "HRIS_R62\\Models\\Second_Phase\\JobLeft.cs",
+              "ToolTip": "C:\\Users\\Milon\\Desktop\\ALL\\36_Merging_HRIS_R62\\HRIS_R62\\Models\\Second_Phase\\JobLeft.cs",
+              "RelativeToolTip": "HRIS_R62\\Models\\Second_Phase\\JobLeft.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABcAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T11:05:14.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "FoodCharge.cs",
+              "DocumentMoniker": "C:\\Users\\Milon\\Desktop\\ALL\\36_Merging_HRIS_R62\\HRIS_R62\\Models\\Second_Phase\\FoodCharge.cs",
+              "RelativeDocumentMoniker": "HRIS_R62\\Models\\Second_Phase\\FoodCharge.cs",
+              "ToolTip": "C:\\Users\\Milon\\Desktop\\ALL\\36_Merging_HRIS_R62\\HRIS_R62\\Models\\Second_Phase\\FoodCharge.cs",
+              "RelativeToolTip": "HRIS_R62\\Models\\Second_Phase\\FoodCharge.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAWwBwAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T11:05:11.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "FestivalBonus.cs",
+              "DocumentMoniker": "C:\\Users\\Milon\\Desktop\\ALL\\36_Merging_HRIS_R62\\HRIS_R62\\Models\\Second_Phase\\FestivalBonus.cs",
+              "RelativeDocumentMoniker": "HRIS_R62\\Models\\Second_Phase\\FestivalBonus.cs",
+              "ToolTip": "C:\\Users\\Milon\\Desktop\\ALL\\36_Merging_HRIS_R62\\HRIS_R62\\Models\\Second_Phase\\FestivalBonus.cs",
+              "RelativeToolTip": "HRIS_R62\\Models\\Second_Phase\\FestivalBonus.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACMAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T11:05:07.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "EmployeeTax.cs",
+              "DocumentMoniker": "C:\\Users\\Milon\\Desktop\\ALL\\36_Merging_HRIS_R62\\HRIS_R62\\Models\\Second_Phase\\EmployeeTax.cs",
+              "RelativeDocumentMoniker": "HRIS_R62\\Models\\Second_Phase\\EmployeeTax.cs",
+              "ToolTip": "C:\\Users\\Milon\\Desktop\\ALL\\36_Merging_HRIS_R62\\HRIS_R62\\Models\\Second_Phase\\EmployeeTax.cs",
+              "RelativeToolTip": "HRIS_R62\\Models\\Second_Phase\\EmployeeTax.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAA0AAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T11:05:06.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "EmployeeBenefits.cs",
+              "DocumentMoniker": "C:\\Users\\Milon\\Desktop\\ALL\\36_Merging_HRIS_R62\\HRIS_R62\\Models\\Second_Phase\\EmployeeBenefits.cs",
+              "RelativeDocumentMoniker": "HRIS_R62\\Models\\Second_Phase\\EmployeeBenefits.cs",
+              "ToolTip": "C:\\Users\\Milon\\Desktop\\ALL\\36_Merging_HRIS_R62\\HRIS_R62\\Models\\Second_Phase\\EmployeeBenefits.cs",
+              "RelativeToolTip": "HRIS_R62\\Models\\Second_Phase\\EmployeeBenefits.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAD4vz0AAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T11:04:56.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "DisciplinaryAction.cs",
+              "DocumentMoniker": "C:\\Users\\Milon\\Desktop\\ALL\\36_Merging_HRIS_R62\\HRIS_R62\\Models\\Second_Phase\\DisciplinaryAction.cs",
+              "RelativeDocumentMoniker": "HRIS_R62\\Models\\Second_Phase\\DisciplinaryAction.cs",
+              "ToolTip": "C:\\Users\\Milon\\Desktop\\ALL\\36_Merging_HRIS_R62\\HRIS_R62\\Models\\Second_Phase\\DisciplinaryAction.cs",
+              "RelativeToolTip": "HRIS_R62\\Models\\Second_Phase\\DisciplinaryAction.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAABkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T11:04:53.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ChildrenInformation.cs",
+              "DocumentMoniker": "C:\\Users\\Milon\\Desktop\\ALL\\36_Merging_HRIS_R62\\HRIS_R62\\Models\\Second_Phase\\ChildrenInformation.cs",
+              "RelativeDocumentMoniker": "HRIS_R62\\Models\\Second_Phase\\ChildrenInformation.cs",
+              "ToolTip": "C:\\Users\\Milon\\Desktop\\ALL\\36_Merging_HRIS_R62\\HRIS_R62\\Models\\Second_Phase\\ChildrenInformation.cs",
+              "RelativeToolTip": "HRIS_R62\\Models\\Second_Phase\\ChildrenInformation.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA8AAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T11:04:50.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "CareerHistory.cs",
+              "DocumentMoniker": "C:\\Users\\Milon\\Desktop\\ALL\\36_Merging_HRIS_R62\\HRIS_R62\\Models\\Second_Phase\\CareerHistory.cs",
+              "RelativeDocumentMoniker": "HRIS_R62\\Models\\Second_Phase\\CareerHistory.cs",
+              "ToolTip": "C:\\Users\\Milon\\Desktop\\ALL\\36_Merging_HRIS_R62\\HRIS_R62\\Models\\Second_Phase\\CareerHistory.cs",
+              "RelativeToolTip": "HRIS_R62\\Models\\Second_Phase\\CareerHistory.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAABMAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T11:04:48.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "BonusRecord.cs",
+              "DocumentMoniker": "C:\\Users\\Milon\\Desktop\\ALL\\36_Merging_HRIS_R62\\HRIS_R62\\Models\\Second_Phase\\BonusRecord.cs",
+              "RelativeDocumentMoniker": "HRIS_R62\\Models\\Second_Phase\\BonusRecord.cs",
+              "ToolTip": "C:\\Users\\Milon\\Desktop\\ALL\\36_Merging_HRIS_R62\\HRIS_R62\\Models\\Second_Phase\\BonusRecord.cs",
+              "RelativeToolTip": "HRIS_R62\\Models\\Second_Phase\\BonusRecord.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAABYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T11:04:43.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "EarlyLeaveInformation.cs",
+              "DocumentMoniker": "C:\\Users\\Milon\\Desktop\\ALL\\36_Merging_HRIS_R62\\HRIS_R62\\Models\\Second_Phase\\EarlyLeaveInformation.cs",
+              "RelativeDocumentMoniker": "HRIS_R62\\Models\\Second_Phase\\EarlyLeaveInformation.cs",
+              "ToolTip": "C:\\Users\\Milon\\Desktop\\ALL\\36_Merging_HRIS_R62\\HRIS_R62\\Models\\Second_Phase\\EarlyLeaveInformation.cs",
+              "RelativeToolTip": "HRIS_R62\\Models\\Second_Phase\\EarlyLeaveInformation.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAqwAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T11:01:41.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "TiffinAllowanceTime.cs",
+              "DocumentMoniker": "C:\\Users\\Milon\\Desktop\\ALL\\36_Merging_HRIS_R62\\HRIS_R62\\Models\\Attendance_Required\\TiffinAllowanceTime.cs",
+              "RelativeDocumentMoniker": "HRIS_R62\\Models\\Attendance_Required\\TiffinAllowanceTime.cs",
+              "ToolTip": "C:\\Users\\Milon\\Desktop\\ALL\\36_Merging_HRIS_R62\\HRIS_R62\\Models\\Attendance_Required\\TiffinAllowanceTime.cs",
+              "RelativeToolTip": "HRIS_R62\\Models\\Attendance_Required\\TiffinAllowanceTime.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T10:58:34.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Unit.cs",
+              "DocumentMoniker": "C:\\Users\\Milon\\Desktop\\ALL\\36_Merging_HRIS_R62\\HRIS_R62\\Models\\Attendance_Required\\Unit.cs",
+              "RelativeDocumentMoniker": "HRIS_R62\\Models\\Attendance_Required\\Unit.cs",
+              "ToolTip": "C:\\Users\\Milon\\Desktop\\ALL\\36_Merging_HRIS_R62\\HRIS_R62\\Models\\Attendance_Required\\Unit.cs",
+              "RelativeToolTip": "HRIS_R62\\Models\\Attendance_Required\\Unit.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T10:58:31.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "DateWiseOfficeTime.cs",
+              "DocumentMoniker": "C:\\Users\\Milon\\Desktop\\ALL\\36_Merging_HRIS_R62\\HRIS_R62\\Models\\Attendance_Required\\DateWiseOfficeTime.cs",
+              "RelativeDocumentMoniker": "HRIS_R62\\Models\\Attendance_Required\\DateWiseOfficeTime.cs",
+              "ToolTip": "C:\\Users\\Milon\\Desktop\\ALL\\36_Merging_HRIS_R62\\HRIS_R62\\Models\\Attendance_Required\\DateWiseOfficeTime.cs",
+              "RelativeToolTip": "HRIS_R62\\Models\\Attendance_Required\\DateWiseOfficeTime.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAIAywBYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T10:46:02.117Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

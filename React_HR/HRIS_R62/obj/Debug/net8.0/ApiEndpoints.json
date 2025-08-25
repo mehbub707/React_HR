@@ -1,0 +1,538 @@
+[
+  {
+    "ContainingType": "HRIS_R62.Controllers.EmployeeInformationsController",
+    "Method": "GetEmployeeInformations",
+    "RelativePath": "api/EmployeeInformations",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[HRIS_R62.Models.Attendance_Required.EmployeeInformation, HRIS_R62, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "HRIS_R62.Controllers.EmployeeInformationsController",
+    "Method": "PostEmployeeInformation",
+    "RelativePath": "api/EmployeeInformations",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "employeeInformation",
+        "Type": "HRIS_R62.Models.Attendance_Required.EmployeeInformation",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "HRIS_R62.Models.Attendance_Required.EmployeeInformation",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "HRIS_R62.Controllers.EmployeeInformationsController",
+    "Method": "GetEmployeeInformation",
+    "RelativePath": "api/EmployeeInformations/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "HRIS_R62.Models.Attendance_Required.EmployeeInformation",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "HRIS_R62.Controllers.EmployeeInformationsController",
+    "Method": "PutEmployeeInformation",
+    "RelativePath": "api/EmployeeInformations/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "employeeInformation",
+        "Type": "HRIS_R62.Models.Attendance_Required.EmployeeInformation",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HRIS_R62.Controllers.EmployeeInformationsController",
+    "Method": "DeleteEmployeeInformation",
+    "RelativePath": "api/EmployeeInformations/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HRIS_R62.Controllers.LeaveApprovalController",
+    "Method": "GetAll",
+    "RelativePath": "api/LeaveApproval",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HRIS_R62.Controllers.LeaveApprovalController",
+    "Method": "Create",
+    "RelativePath": "api/LeaveApproval",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "entity",
+        "Type": "HRIS_R62.Models.Attendance_Required.LeaveApproval",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HRIS_R62.Controllers.LeaveApprovalController",
+    "Method": "GetById",
+    "RelativePath": "api/LeaveApproval/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HRIS_R62.Controllers.LeaveApprovalController",
+    "Method": "Update",
+    "RelativePath": "api/LeaveApproval/Update/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "entity",
+        "Type": "HRIS_R62.Models.Attendance_Required.LeaveApproval",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HRIS_R62.Controllers.LeaveReacordController",
+    "Method": "GetAll",
+    "RelativePath": "api/LeaveReacord",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HRIS_R62.Controllers.LeaveReacordController",
+    "Method": "Create",
+    "RelativePath": "api/LeaveReacord",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "entity",
+        "Type": "HRIS_R62.Models.Attendance_Required.LeaveRecord",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HRIS_R62.Controllers.LeaveReacordController",
+    "Method": "GetById",
+    "RelativePath": "api/LeaveReacord/Id",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HRIS_R62.Controllers.LeaveReacordController",
+    "Method": "Update",
+    "RelativePath": "api/LeaveReacord/Update/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "entity",
+        "Type": "HRIS_R62.Models.Attendance_Required.LeaveRecord",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HRIS_R62.Controllers.LeaveTypeController",
+    "Method": "GetAll",
+    "RelativePath": "api/LeaveType",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HRIS_R62.Controllers.LeaveTypeController",
+    "Method": "Create",
+    "RelativePath": "api/LeaveType",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "entity",
+        "Type": "HRIS_R62.Models.Attendance_Required.LeaveType",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HRIS_R62.Controllers.LeaveTypeController",
+    "Method": "GetById",
+    "RelativePath": "api/LeaveType/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HRIS_R62.Controllers.LeaveTypeController",
+    "Method": "Update",
+    "RelativePath": "api/LeaveType/Update/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "entity",
+        "Type": "HRIS_R62.Models.Attendance_Required.LeaveType",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HRIS_R62.Controllers.NightAllowancesController",
+    "Method": "GetNightAllowances",
+    "RelativePath": "api/NightAllowances",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[HRIS_R62.Models.Attendance_Required.NightAllowance, HRIS_R62, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "HRIS_R62.Controllers.NightAllowancesController",
+    "Method": "PostNightAllowance",
+    "RelativePath": "api/NightAllowances",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "nightAllowance",
+        "Type": "HRIS_R62.Models.Attendance_Required.NightAllowance",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "HRIS_R62.Models.Attendance_Required.NightAllowance",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "HRIS_R62.Controllers.NightAllowancesController",
+    "Method": "GetNightAllowance",
+    "RelativePath": "api/NightAllowances/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "HRIS_R62.Models.Attendance_Required.NightAllowance",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "HRIS_R62.Controllers.NightAllowancesController",
+    "Method": "PutNightAllowance",
+    "RelativePath": "api/NightAllowances/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "nightAllowance",
+        "Type": "HRIS_R62.Models.Attendance_Required.NightAllowance",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HRIS_R62.Controllers.NightAllowancesController",
+    "Method": "DeleteNightAllowance",
+    "RelativePath": "api/NightAllowances/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HRIS_R62.Controllers.NightAllowanceTimesController",
+    "Method": "GetNightAllowanceTimes",
+    "RelativePath": "api/NightAllowanceTimes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[HRIS_R62.Models.Attendance_Required.NightAllowanceTime, HRIS_R62, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "HRIS_R62.Controllers.NightAllowanceTimesController",
+    "Method": "PostNightAllowanceTime",
+    "RelativePath": "api/NightAllowanceTimes",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "entity",
+        "Type": "HRIS_R62.Models.Attendance_Required.NightAllowanceTime",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "HRIS_R62.Models.Attendance_Required.NightAllowanceTime",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "HRIS_R62.Controllers.NightAllowanceTimesController",
+    "Method": "GetNightAllowanceTime",
+    "RelativePath": "api/NightAllowanceTimes/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "HRIS_R62.Models.Attendance_Required.NightAllowanceTime",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "HRIS_R62.Controllers.NightAllowanceTimesController",
+    "Method": "PutNightAllowanceTime",
+    "RelativePath": "api/NightAllowanceTimes/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "entity",
+        "Type": "HRIS_R62.Models.Attendance_Required.NightAllowanceTime",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HRIS_R62.Controllers.NightAllowanceTimesController",
+    "Method": "DeleteNightAllowanceTime",
+    "RelativePath": "api/NightAllowanceTimes/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HRIS_R62.Controllers.NightAllowanceTimesController",
+    "Method": "GenerateNextId",
+    "RelativePath": "api/NightAllowanceTimes/GenerateNextId",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
